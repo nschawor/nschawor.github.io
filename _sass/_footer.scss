@@ -4,22 +4,21 @@
 
 .page__footer {
   @include clearfix;
-  float: left;
-  margin-left: 0;
-  margin-right: 0;
-  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 925px;
   clear: both;
   /* sticky footer fix start */
-  position: absolute;
+  // position: absolute;
   bottom: 0em;
   height: auto;
   /* sticky footer fix end */
-  margin-top: 3em;
+  margin-top: 0em;
   color: mix(#fff, $gray, 25%);
-  -webkit-animation: intro 0.3s both;
-          animation: intro 0.3s both;
-  -webkit-animation-delay: 0.45s;
-          animation-delay: 0.45s;
+  // -webkit-animation: intro 0.3s both;
+  //         animation: intro 0.3s both;
+  // -webkit-animation-delay: 0.45s;
+  //         animation-delay: 0.45s;
   background-color: $lighter-gray;
   border-top: 1px solid $light-gray;
 

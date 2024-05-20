@@ -1,0 +1,32 @@
+---
+layout: archive
+permalink: /tags/
+title: "Posts by Tags"
+author_profile: true
+---
+
+{% include base_path %}
+{% include group-by-array collection=site.posts field="tags" %}
+
+<div class="tagbox">
+<ul>
+{% for tag in group_names %}
+  {% assign posts = group_items[forloop.index0] %}
+  {% assign additional_size = posts.size | times: 1.1 %}
+  {% assign fontsize = 8 | plus: additional_size %}
+  <li style="font-size: {{ fontsize }}px;">
+    &#35;<a href="https://nschawor.github.io/tags/#{{ tag }}">{{ tag }}</a>&nbsp;
+  </li>
+{% endfor %}
+</ul>
+</div>
+
+{% for tag in group_names %}
+  {% assign posts2 = group_items[forloop.index0] %}
+  <h2 id="{{ tag | slugify }}" class="archive__subtitle">{{ tag }}</h2>
+  <ul>
+  {% for post in posts2 %}
+    <li><a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
+{% endfor %}

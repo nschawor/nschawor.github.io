@@ -1,0 +1,21 @@
+---
+layout: archive
+permalink: /posts/2024/
+title: "Posts by Year – 2024"
+author_profile: true
+---
+
+{% include base_path %}
+{% include yearbox.html %}
+{% assign year = "2024" %}
+
+<h2 id="{{ year }}" class="archive__subtitle">Posts in {{ year }}</h2>
+
+{% for post in site.posts%}
+    {% capture post_year %}{{ post.date | date: '%Y' }}{% endcapture %}
+    {% if post_year == year %}
+        {% include archive-single.html %}
+    {% endif %}
+{% endfor %}
+
+{% include yearbox.html %}

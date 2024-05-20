@@ -1,0 +1,9 @@
+{% assign sorted_years = "2024,2023,2022,2021,2020,2019" | split: "," %}
+<div class="tagbox">
+  {{ site.posts.size }} posts <br>
+  by <a href="{{ base_path }}/tags/">&#35;tags</a>&nbsp;&nbsp;&nbsp;&nbsp;</li><br>
+  by year: 
+  {% for year in sorted_years %}
+        &#35;<a href="{{ base_path }}/posts/{{ year }}">{{ year }}</a>&nbsp;&nbsp;
+  {% endfor %}
+  </div>
