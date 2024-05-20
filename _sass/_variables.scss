@@ -42,14 +42,6 @@ $type-size-6                : 0.75em;   // ~12px
 $type-size-7                : 0.6875em; // ~11px
 $type-size-8                : 0.625em;  // ~10px
 
-/* masthead properties */
-$masthead-height            : 70px;
-
-/* Sidebar properties */
-$sidebar-screen-min-width   : 1024px;
-$sidebar-link-max-width     : 250px;
-
-
 
 /*
    Colors
@@ -124,9 +116,9 @@ $x-large                    : 1800px;
 
 $small                      : 600px !default;
 $medium                     : 768px !default;
-$medium-wide                : 900px !default;
+$medium-wide                : 925px !default;
 $large                      : 925px !default;
-$x-large                    : 1280px !default;
+$x-large                    : 925px !default;
 
 /*
    Grid
@@ -139,7 +131,7 @@ $right-sidebar-width-wide   : 0px;
 $susy: (
   columns: 12,
   column-width: 120px,
-  gutters: 1/4,
+  gutters: 1/2,
   math: fluid,
   output: float,
   gutter-position: after,
