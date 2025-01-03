@@ -1,7 +1,7 @@
 ---
 title: "μ-Rhythm Extracted With Personalized EEG Filters Correlates With Corticospinal Excitability in Real-Time Phase-Triggered EEG-TMS"
 collection: publications
-permalink: /publication/2018-12-01-2018_schaworonkow_-rhythm
+permalink: /publication/2018-12-01-2018_schaworonkow_personalized_tms
 date: 2018-12-01
 venue: 'Frontiers in Neuroscience'
 paperurl: 'https://www.frontiersin.org/article/10.3389/fnins.2018.00954/full'

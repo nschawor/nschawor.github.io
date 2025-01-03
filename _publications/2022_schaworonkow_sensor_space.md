@@ -1,7 +1,7 @@
 ---
 title: "Is sensor space analysis good enough? Spatial patterns as a tool for assessing spatial mixing of EEG/MEG rhythms"
 collection: publications
-permalink: /publication/2022_schaworonkow_is
+permalink: /publication/2022_schaworonkow_sensor_space
 date: 2022-06-01
 venue: 'NeuroImage'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S105381192200221X'

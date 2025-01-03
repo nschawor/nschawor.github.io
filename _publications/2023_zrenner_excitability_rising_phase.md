@@ -1,7 +1,7 @@
 ---
 title: "Corticospinal excitability is highest at the early rising phase of sensorimotor µ-rhythm"
 collection: publications
-permalink: /publication/2023_zrenner_corticospinal
+permalink: /publication/2023_zrenner_excitability_rising_phase
 date: 2023-02-01
 venue: 'NeuroImage'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S1053811922009260'

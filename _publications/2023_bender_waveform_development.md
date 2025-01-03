@@ -1,7 +1,7 @@
 ---
 title: "Resting-state is not enough: alpha and mu rhythms change shape across development, but lack diagnostic sensitivity"
 collection: publications
-permalink: /publication/2023_bender_resting-state
+permalink: /publication/2023_bender_waveform_development
 date: 2023-10-01
 venue: 'bioRxiv'
 paperurl: 'https://www.biorxiv.org/content/10.1101/2023.10.13.562301v1'

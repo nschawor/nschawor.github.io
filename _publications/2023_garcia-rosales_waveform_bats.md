@@ -1,7 +1,7 @@
 ---
 title: "Oscillatory waveform shape and temporal spike correlations differ across bat frontal and auditory cortex"
 collection: publications
-permalink: /publication/2023_garcia-rosales_oscillatory
+permalink: /publication/2023_garcia-rosales_waveform_bats
 date: 2023-07-01
 venue: 'bioRxiv'
 paperurl: 'https://www.jneurosci.org/content/44/10/e1236232023'

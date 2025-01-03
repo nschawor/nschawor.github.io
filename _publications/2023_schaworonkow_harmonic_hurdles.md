@@ -1,7 +1,7 @@
 ---
 title: "Overcoming harmonic hurdles: Genuine beta-band rhythms vs. contributions of alpha-band waveform shape"
 collection: publications
-permalink: /publication/2023_schaworonkow_overcoming
+permalink: /publication/2023_schaworonkow_harmonic_hurdles
 date: 2023-09-01
 venue: 'Imaging Neuroscience'
 paperurl: 'https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00018/'

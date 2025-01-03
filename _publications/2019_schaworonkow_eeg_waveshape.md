@@ -1,7 +1,7 @@
 ---
 title: "Spatial neuronal synchronization and the waveform of oscillations: Implications for EEG and MEG"
 collection: publications
-permalink: /publication/2019_schaworonkow_spatial
+permalink: /publication/2019_schaworonkow_eeg_waveshape
 date: 2019-05-01
 venue: 'PLOS Computational Biology'
 paperurl: 'https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007055'

@@ -1,7 +1,7 @@
 ---
 title: "Oscillations and aperiodic activity: Evidence for dynamic changes in both during memory encoding"
 collection: publications
-permalink: /publication/2022_preston_oscillations
+permalink: /publication/2022_preston_memory_exponent
 date: 2022-10-01
 venue: 'bioRxiv'
 paperurl: 'http://biorxiv.org/lookup/doi/10.1101/2022.10.04.509632'

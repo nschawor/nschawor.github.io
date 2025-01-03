@@ -1,7 +1,7 @@
 ---
 title: "Longitudinal changes in aperiodic and periodic activity in electrophysiological recordings in the first seven months of life"
 collection: publications
-permalink: /publication/2021_schaworonkow_longitudinal
+permalink: /publication/2021_schaworonkow_infant_exponents
 date: 2021-02-01
 venue: 'Developmental Cognitive Neuroscience'
 paperurl: 'http://www.sciencedirect.com/science/article/pii/S1878929320301420'

@@ -1,7 +1,7 @@
 ---
 title: "Ongoing brain rhythms shape I-wave properties in a computational model"
 collection: publications
-permalink: /publication/2018_schaworonkow_ongoing
+permalink: /publication/2018_schaworonkow_iwave_model
 date: 2018-07-01
 venue: 'Brain Stimulation'
 paperurl: 'https://linkinghub.elsevier.com/retrieve/pii/S1935861X18300937'

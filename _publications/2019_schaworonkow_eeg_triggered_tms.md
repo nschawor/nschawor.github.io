@@ -1,7 +1,7 @@
 ---
 title: "EEG-triggered TMS reveals stronger brain state-dependent modulation of motor evoked potentials at weaker stimulation intensities"
 collection: publications
-permalink: /publication/2019_schaworonkow_eeg-triggered
+permalink: /publication/2019_schaworonkow_eeg_triggered_tms
 date: 2019-01-01
 venue: 'Brain Stimulation'
 paperurl: 'https://linkinghub.elsevier.com/retrieve/pii/S1935861X18303115'

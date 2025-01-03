@@ -1,7 +1,7 @@
 ---
 title: "Enhancing oscillations in intracranial electrophysiological recordings with data-driven spatial filters"
 collection: publications
-permalink: /publication/2021_schaworonkow_enhancing
+permalink: /publication/2021_schaworonkow_spatial_filters_for_ieeg
 date: 2021-08-01
 venue: 'PLOS Computational Biology'
 paperurl: 'https://dx.plos.org/10.1371/journal.pcbi.1009298'

@@ -1,7 +1,7 @@
 ---
 title: "A multi-scale computational model of the effects of TMS on motor cortex"
 collection: publications
-permalink: /publication/2017_seo_multi-scale
+permalink: /publication/2017_seo_multiscale_model
 date: 2017-05-01
 venue: 'F1000Research'
 paperurl: 'https://f1000research.com/articles/5-1945/v3'

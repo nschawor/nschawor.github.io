@@ -1,7 +1,7 @@
 ---
 title: "Power-law dynamics in neuronal and behavioral data introduce spurious correlations: Power-Law Dynamics in Neuronal and Behavioral Data"
 collection: publications
-permalink: /publication/2015_schaworonkow_power-law
+permalink: /publication/2015_schaworonkow_powerlaw_correlations
 date: 2015-08-01
 venue: 'Human Brain Mapping'
 paperurl: 'http://doi.wiley.com/10.1002/hbm.22816'

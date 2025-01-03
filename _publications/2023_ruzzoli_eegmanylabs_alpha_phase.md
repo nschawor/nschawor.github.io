@@ -1,7 +1,7 @@
 ---
 title: "An #EEGManyLabs study to test the role of the alpha phase on visual perception (a replication and new evidence)"
 collection: publications
-permalink: /publication/2023_ruzzoli_eegmanylabs
+permalink: /publication/2023_ruzzoli_eegmanylabs_alpha_phase
 date: 2023-09-15
 venue: 'osf'
 paperurl: 'https://osf.io/3dhpx'
